@@ -1,6 +1,2 @@
-
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+<!--https://04ae26c14917493c9d2ac779dfefc5be.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html -->
+![Description of Image] (img/beep boop.png)
